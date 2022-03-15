@@ -4,7 +4,7 @@
 
 Sitio oficial: <https://qgis.org>
 
-Las descargas oficiales se pueden encontrar en el [sitio de qgis](https://www.qgis.org/es/site/forusers/download.html). La versión actual es la 3.24.
+Las descargas oficiales se pueden encontrar en el [sitio de qgis](https://www.qgis.org/es/site/forusers/download.html). La versión actual es la `3.24`.
 
 El programa es autocontenido y no tiene ningún requerimiento externo aparte de un sistema operativo medianamente actualizado.
 
