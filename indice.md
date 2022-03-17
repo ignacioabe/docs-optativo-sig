@@ -65,12 +65,16 @@ Contenidos curso
 
 ### Clase 2: SIG, lectura datos
 
-versión workshop
-
 <!-- teoría -->
 
 <!-- esto amerita tener unos esquemas ya diseñados -->
-- sistemas de referencia de coordenadas (proyecciones)
+
+Aspectos básicos cartografía/mapeo
+<!-- 25 minutos -->
+
+- para qué sirve
+- técnicas (ref. James Corner)
+- sistemas de referencia de coordenadas - SRC
   - no hay solución perfecta
   - familias de proyecciones (planas, cilíndricas y cónicas)
   - distorsiones (forma, área, dirección, distancia)
@@ -78,12 +82,6 @@ versión workshop
     - wgs84 (EPSG:4326)
     - wgs84 / pseudo mercator (EPSG:3857)
     - utm19s (EPSG:32719)
-
-- secuencia común en el trabajo con datos (ETL?)
-  - obtención y/o creación
-  - revisión y preparación
-  - análisis y visualización
-
 - soportes gráficos
   - estáticos
     - impresos (láminas, diarios, libros, etc)
@@ -92,7 +90,11 @@ versión workshop
     - web
     - aplicaciones móviles
 
-- formatos
+Geodatos
+<!-- 25 minutos -->
+
+- cómo el SIG utiliza los datos geoespaciales
+- formatos geoespaciales
   - vectoriales
     - CSV
     - shapefile
@@ -104,40 +106,58 @@ versión workshop
     - DEM
     - txt
     - teselas
-
 - fuentes
   - de terceros
     - openstreetmap
     - datos abiertos gubernamentales
     - ONGs
     - aplicaciones / empresas
-  - propias (sesión 2)
-    - catastros en terreno
+  - propias
+    - catastros en terreno (GPS, papel)
     - trazado de imágenes
     - encuestas
+    - otros (sensores, IA, etc.)
 
-<!-- práctica -->
+<!-- pausa 10 minutos -->
 
-<!-- 60 minutos -->
-- herramientas (funcionalidad e interfaces)
-  - QGIS
-  - openrefine
-  - Kepler.gl
-
-<!-- 60 minutos -->
+Obtención de datos
+<!-- 40 minutos -->
 - obtención de datos
   - OSM
     - qué es
     - wiki
     - API overpass turbo (web y qgis)
   - gubernamentales
-    - <geoportal.cl> (infraestructura de datos espaciales)
-    - <CONASET.cl>
-    - <earthexplorer.usgs.gov/>
+    - [geoportal.cl](http://www.geoportal.cl)
+    - [INE](https://ine.cl) -> portal de mapas -> geodatos abiertos
+    - [earth explorer](https://earthexplorer.usgs.gov)
+    - [EOS landviewer](https://eos.com/landviewer/)
+- estructura carpetas
+  - importancia del orden
+  - ejemplo personal
 
-- revisión de los datos en qgis
-- depuración en openrefine
-- visualización en kepler
+<!-- pausa 10 minutos -->
+
+Uso herramientas SIG
+<!-- 50 minutos -->
+
+- QGIS
+  - interfaz
+  - revisión de datos (ciclovías, condominios)
+- openrefine
+  - interfaz
+  - depuración de datos (permisos edificación)
+- Kepler.gl
+  - interfaz
+  - visualización de datos (permisos edificación)
+
+Tarea para la casa.
+<!-- 10 minutos -->
+
+- armar los grupos
+- elegir la ciudad
+- buscar datos públicos para chile o la ciudad elegida
+- revisarlos y crear una visualización interesante
 
 ### Clase 3: SIG: creación de datos
 <!-- pendiente -->
