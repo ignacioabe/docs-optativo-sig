@@ -65,6 +65,11 @@ Contenidos curso
 
 ### Clase 2: SIG, lectura datos
 
+<!-- Explicación problemas viaje. -->
+<!-- Dudas sobre programación bimestre. -->
+
+<!-- https://github.com/ignacioabe/docs-optativo-sig/blob/main/indice.md#clase-2-sig-lectura-datos -->
+
 <!-- teoría -->
 
 <!-- esto amerita tener unos esquemas ya diseñados -->
@@ -93,7 +98,7 @@ Aspectos básicos cartografía/mapeo
 Geodatos
 <!-- 25 minutos -->
 
-- cómo el SIG utiliza los datos geoespaciales
+- cómo el SIG utiliza los datos geoespaciales (vínculos)
 - formatos geoespaciales
   - vectoriales
     - CSV
@@ -125,8 +130,8 @@ Obtención de datos
 - obtención de datos
   - OSM
     - qué es
-    - wiki
-    - API overpass turbo (web y qgis)
+    - [wiki](https://wiki.openstreetmap.org/wiki/Main_Page)
+    - API overpass turbo ([web](https://overpass-turbo.eu/) y qgis)
   - gubernamentales
     - [geoportal.cl](http://www.geoportal.cl)
     - [INE](https://ine.cl) -> portal de mapas -> geodatos abiertos
@@ -160,7 +165,80 @@ Tarea para la casa.
 - revisarlos y crear una visualización interesante
 
 ### Clase 3: SIG: creación de datos
-<!-- pendiente -->
+
+Revisión de tarea anterior, búsqueda de datos
+<!-- 30 minutos? -->
+
+Teoría
+<!-- 30 minutos -->
+
+- introducción
+- (navegación y cartografía) básica, medieval y moderna
+- creación de información geoespacial
+  - vectorial
+    - levantamiento en terreno (con o sin GPS)
+    - trazado fotos
+    - encuestas
+    - aplicaciones (uber, strava, etc)
+    - geocodificación
+    - derivada (procesos vectoriales)
+  - raster
+    - vuelos
+    - satélites
+    - drones
+    - digitalización mapas
+    - derivada (procesos raster)
+
+<!-- pausa 10 minutos -->
+
+Práctica: creación de datos
+<!-- 50 minutos -->
+
+- herramientas
+  - en terreno
+    - GPS o app equivalente [opentracks](https://f-droid.org/packages/de.dennisguse.opentracks/)
+    - papel o [field papers](http://fieldpapers.org/?locale=es)
+  - en el escritorio
+    - QGIS
+      - importación de datos GPS
+      - interoperabilidad con AUTOCAD (ejemplo)
+      - edición de capas
+        - geometría
+        - atributos
+          - creación de columnas nuevas y derivadas
+      - creación de capas
+        - SRC y campos
+        - imágenes de fondo (google + sectra)
+        - dibujo de geometrías
+        - ingreso datos
+        - herramientas básicas de selección
+        - herramienta vectoriales
+          - de geoproceso
+          - de geometría
+          - de análisis
+
+<!--  pausa 10 minutos -->
+
+OPENSTREETMAP
+<!-- 30 minutos -->
+
+- creación de cuenta
+- edición en ID
+  - puntos clave antes de editar*
+  - importación de datos GPS
+  - trazado
+  - claves / valores
+
+Explicación de nueva tarea
+<!-- 30 minutos? -->
+
+- creación de tracks GPS de una ida a la universidad
+- edición en OSM (anotar usuario en el drive de curso)
+- creación de un archivo para la ciudad de estudio en QGIS (revisión en próxima clase)
+- creación de una capa nueva
+
+Revisión grupos y ciudades asignadas
+
 ### Clase 4: Cambios en el tiempo
 <!-- pendiente -->
 ### Clase 5: Geopython
