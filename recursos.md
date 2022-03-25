@@ -76,8 +76,10 @@ Contiene:
 
 ## Teselas (imágenes cuadradas de fondo)
 
-- [Google Satellite](http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z})
-- [Google Terrain](https://mt1.google.com/vt/lyrs=t&x={x}&y={y}&z={z})
-- [ESRI Imagery/Satellite](https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x})
+Referencia: [Artículo sobre cómo añadirlas](https://mappinggis.com/2018/03/como-anadir-mapas-base-en-qgis-3-0-openstreetmap-google-carto-stamen/)
 
-- [Artículo sobre cómo añadirlas](https://mappinggis.com/2018/03/como-anadir-mapas-base-en-qgis-3-0-openstreetmap-google-carto-stamen/)
+Google Satellite: `http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z}`
+
+Google Terrain: `https://mt1.google.com/vt/lyrs=t&x={x}&y={y}&z={z}`
+
+ESRI Imagery/Satellite: `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}`
