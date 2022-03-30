@@ -38,17 +38,21 @@ Es simplemente una página web, así que no requiere ninguna instalación previa
 
 ### Repositorio curso
 
-- Carpeta compartida en [google drive](https://drive.google.com/drive/folders/1t_z-Km3VD3Qm2NvQscVIMo-6TpurAex7?usp=sharing)
+- Carpeta compartida en [google drive](https://drive.google.com/drive/folders/1W9zvuSBB04ljfNTh9Ze0MmAwL0KR2CDu?usp=sharing)
 
 Contiene:
 
-- puntos: permisos de edificación 2010 - 2018.csv - INE
-- polilíneas: ciclovías visor territorial (2021) - MINVU
-- polígonos: catastro nacional de condominios sociales - INE
-- datos raster
-  - dem GMTED2010 zona centro sur (recorte) y sombreado de cerros (hillshade)
-  - descarga de prueba NDVI desde EOS Land Explorer
-  - descarga de prueba foto LANDSAT desde Earth Explorer (USGS)
+- Lista de curso
+- Grabaciones de curso:
+  - clase 3
+- Geodatos
+  - puntos: permisos de edificación 2010 - 2018.csv - INE
+  - polilíneas: ciclovías visor territorial (2021) - MINVU
+  - polígonos: catastro nacional de condominios sociales - INE
+  - datos raster
+   - dem GMTED2010 zona centro sur (recorte) y sombreado de cerros (hillshade)
+   - descarga de prueba NDVI desde EOS Land Explorer
+   - descarga de prueba foto LANDSAT desde Earth Explorer (USGS)
 
 ### Chile
 
