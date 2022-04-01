@@ -240,7 +240,45 @@ Explicación de nueva tarea
 Revisión grupos y ciudades asignadas
 
 ### Clase 4: Cambios en el tiempo
-<!-- pendiente -->
+
+Introducción teórica
+<!-- 30 minutos o menos -->
+
+- el tiempo en los datos
+  - cómo se obtiene? pasado y presente
+    - datos no geográficos
+    - datos raster
+    - datos vectoriales
+  - cómo se registra? (formateo)
+  - características
+    - resolución temporal
+    - señal, ruido y ciclos
+  - métodos
+- el tiempo en la cartografía
+  - dos dimensiones ya ocupadas
+  - [Charles Joseph Minard](https://www.nationalgeographic.com/culture/article/charles-minard-cartography-infographics-history)
+  - [barcos en la bahía de San Francisco](https://labs.mapbox.com/bites/00318/?embed)
+
+Herramientas prácticas
+<!-- 90 min -->
+
+- información vectorial
+  - formateo fechas (openrefine) *permisos?*
+  - controlador temporal en QGIS
+  - filtro temporal en KEPLER.gl
+
+- información raster
+  - arreglo fechas en open refine
+  - [google earth engine - timelapse](https://earthengine.google.com/timelapse/)
+  - EOS Landviewer
+  - georreferenciación de mapas antiguos
+
+Revisión avances grupos
+<!-- 45 minutos -->
+
+Nuevo encargo
+<!-- 15 minutos -->
+
 ### Clase 5: Geopython
 <!-- pendiente -->
 ### Clase 6: Análisis de ciudades (revisión avances)
