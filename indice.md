@@ -245,12 +245,12 @@ Introducción teórica
 <!-- 30 minutos o menos -->
 
 - el tiempo en los datos
-  - cómo se obtiene? pasado y presente
-    - datos no geográficos
+  - cómo se registra? pasado y presente
+    - datos no geográficos (series de tiempo)
     - datos raster
     - datos vectoriales
-  - cómo se registra? (formateo)
   - características
+    - formato
     - resolución temporal
     - señal, ruido y ciclos
   - métodos
