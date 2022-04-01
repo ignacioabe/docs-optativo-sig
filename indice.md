@@ -271,7 +271,7 @@ Herramientas prácticas
   - arreglo fechas en open refine
   - [google earth engine - timelapse](https://earthengine.google.com/timelapse/)
   - EOS Landviewer
-  - georreferenciación de mapas antiguos
+  - georreferenciación de mapas antiguos (Biblioteca Nacional - Mapoteca)
 
 Revisión avances grupos
 <!-- 45 minutos -->
