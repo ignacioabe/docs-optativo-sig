@@ -293,8 +293,89 @@ Para contextualizar el análisis se revisará además la evolución de la huella
 
 De todos modos vamos a revisar la presentación durante la clase.
 
-### Clase 5: Geopython
-<!-- pendiente -->
+### Clase 5: Python para análisis estadístico y geográfico
+
+Introducción
+<!-- teoría, 30 min -->
+
+- qué es la programación? (P+R)
+- qué es un lenguaje de programación (P+R)
+- python
+  - características
+    - alto nivel
+    - interpretado
+    - énfasis en legibilidad
+  - usos más frecuentes
+    - ciencia
+      - estadística
+      - aprendizaje automático
+    - web
+
+Elementos de lenguaje y sintaxis
+<!-- teoría y práctica - ir pasando de pizarra a cuaderno, 30 minutos -->
+
+- instalación de google collab en drive
+- autorizar acceso a archivos
+
+- comentario
+- variable
+- tipos de datos
+  - str (cadena)
+  - float (decimal)
+  - int (entero)
+  - bool (booleano)
+  - conjuntos (lista, tupla, set)
+  - operadores
+    - aritmética
+    - comparación
+    - lógica
+    - asignación
+- bucles
+  - for
+  - while
+- funciones
+- módulos
+  - pip
+  - pandas
+  - geopandas
+
+Pandas
+<!-- pizarra y jupyter, 60 min -->
+
+- funcionalidad
+  - análisis datos
+  - manipulación de datos
+- uso básico
+  - tipo de datos: dataframe
+  - partes de un dataframe
+  - lectura `pd.read_csv()`
+  - revisión básica
+    - tamaño `.shape`
+    - columnas `.columns`
+    - detalle columnas `info()`
+    - primeras filas `head()`
+    - fila individual `.iloc[n]`
+  - revisión por columna
+    - indexado `df.["a"]`
+    - descripción `.describe()`
+    - conteo de valores `value_counts()`
+    - agrupado por otra columna `groupby()`
+    - filtro por valor `df[df.a == 1]`
+  - gráficos simples `plot()`
+
+Geopandas
+<!-- revisión rápida, cuaderno, 10 min -->
+
+- funcionalidad
+- tipo de datos: geodataframe
+- src `df.src`
+- geometría `df.geometry`
+- operaciones geométricas
+
+Nueva tarea
+
+Revisar alguna fuente de datos con las herramientas vistas en clase. Guardar una copia del cuaderno antes de editar!
+
 ### Clase 6: Análisis de ciudades (revisión avances)
 <!-- pendiente -->
 ### Clase 7: Exámen

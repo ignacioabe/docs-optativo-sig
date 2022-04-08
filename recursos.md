@@ -24,9 +24,36 @@ La versión actual es la `3.5.2`
 - macos: <https://github.com/OpenRefine/OpenRefine/releases/download/3.5.2/openrefine-mac-3.5.2.dmg>
 - linux: <https://github.com/OpenRefine/OpenRefine/releases/download/3.5.2/openrefine-linux-3.5.2.tar.gz> (esta versión requiere la instalación separada de JAVA)
 
+## Software en la nube (SaaS)
+
 ### Kepler.gl
 
 Es simplemente una página web, así que no requiere ninguna instalación previa. Se puede revisar en <https://kepler.gl/>
+
+### Google collaboratory
+
+Instrucciones para activarlo
+
+- Entrar (log in) en google drive con la cuenta UC.
+<!-- - Abrir el [sitio web](https://colab.research.google.com/) -->
+- Ir a la carpeta compartida del curso
+- Ir la carpeta `optativo MPUR/archivos de trabajo/jupyterlab/
+- Hacer clic secundario en el archivo `c5.1 python básico` y luego en `abrir con` -> `google collaboratory`.
+- Es posible que los haga pasar por unos diálogos para incorporar *collab* a *drive*.
+
+Instrucciones para que *collaboratory* lea datos directo desde google drive.
+
+- Abrir el cuaderno `c5.2 pandas.ipynb`.
+- Ejecutar la segunda celda de código, que dice lo siguiente:
+
+```python
+# permite acceso a archivos de drive
+from google.colab import drive
+drive.mount('/content/drive')
+```
+
+- Permitir que el *notebook* acceda a los archivos de *google drive*.
+- Ejecutar la tercera celda. Si se completa sin errores, está todo ok.
 
 ## Software móvil GPS
 
