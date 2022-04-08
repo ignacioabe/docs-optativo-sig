@@ -30,7 +30,7 @@ La versión actual es la `3.5.2`
 
 Es simplemente una página web, así que no requiere ninguna instalación previa. Se puede revisar en <https://kepler.gl/>
 
-### Google collaboratory
+### Google colaboratory
 
 Instrucciones para activarlo
 
@@ -38,10 +38,10 @@ Instrucciones para activarlo
 <!-- - Abrir el [sitio web](https://colab.research.google.com/) -->
 - Ir a la carpeta compartida del curso
 - Ir la carpeta `optativo MPUR/archivos de trabajo/jupyterlab/
-- Hacer clic secundario en el archivo `c5.1 python básico` y luego en `abrir con` -> `google collaboratory`.
-- Es posible que los haga pasar por unos diálogos para incorporar *collab* a *drive*.
+- Hacer clic secundario en el archivo `c5.1 python básico` y luego en `abrir con` -> `google colaboratory`.
+- Es posible que los haga pasar por unos diálogos para incorporar *colab* a *drive*.
 
-Instrucciones para que *collaboratory* lea datos directo desde google drive.
+Instrucciones para que *colaboratory* lea datos directo desde google drive.
 
 - Abrir el cuaderno `c5.2 pandas.ipynb`.
 - Ejecutar la segunda celda de código, que dice lo siguiente:
