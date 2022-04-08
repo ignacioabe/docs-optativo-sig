@@ -1,7 +1,5 @@
 # Índice optativo MPUR
 
----
-
 ## Estructura general sesiones
 
 - primer módulo: teoría (80 minutos)
@@ -14,8 +12,6 @@
   - preguntas de exploración para la casa
 
 En cada clase se revisará una herramienta que permitirá analizar uno o más temas (ej: NDVI -> vegetación). La idea es que vayan explorando la ciudad gradualmente con las herramientas vistas en clases para ir construyendo acumulativamente los trabajos.
-
----
 
 ## Clases
 
@@ -295,7 +291,7 @@ De todos modos vamos a revisar la presentación durante la clase.
 
 ### Clase 5: Python para análisis estadístico y geográfico
 
-Introducción
+#### Introducción
 <!-- teoría, 30 min -->
 
 - qué es la programación? (P+R)
@@ -311,12 +307,13 @@ Introducción
       - aprendizaje automático
     - web
 
-Elementos de lenguaje y sintaxis
+#### Elementos de lenguaje y sintaxis
 <!-- teoría y práctica - ir pasando de pizarra a cuaderno, 30 minutos -->
+
+Ver instrucciones [aquí](https://github.com/ignacioabe/docs-optativo-sig/blob/main/recursos.md#software-en-la-nube-saas) y cuaderno de código en la carpeta de drive `optativo MPUR/archivos de trabajo/jupyterlab/c5.1 python básico.ipynb`
 
 - instalación de google collab en drive
 - autorizar acceso a archivos
-
 - comentario
 - variable
 - tipos de datos
@@ -339,8 +336,10 @@ Elementos de lenguaje y sintaxis
   - pandas
   - geopandas
 
-Pandas
+#### Pandas
 <!-- pizarra y jupyter, 60 min -->
+
+Ver `optativo MPUR/archivos de trabajo/jupyterlab/c5.2 pandas.ipynb`
 
 - funcionalidad
   - análisis datos
@@ -363,8 +362,11 @@ Pandas
     - filtro por valor `df[df.a == 1]`
   - gráficos simples `plot()`
 
-Geopandas
+#### Geopandas
 <!-- revisión rápida, cuaderno, 10 min -->
+
+Ver `optativo MPUR/archivos de trabajo/jupyterlab/c5.3 geopandas.ipynb`
+
 
 - funcionalidad
 - tipo de datos: geodataframe
