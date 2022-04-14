@@ -20,6 +20,8 @@ U otras preguntas que les parezcan relevantes...
 
 Consiste en una revisión de los datos en QGIS y la generación de visualizaciones temáticas en base a las mismas preguntas elaboradas anteriormente. Para orientarse, pueden encontrar una grabación extra llamada `nombre archivo` que explica como hacer visualizaciones según atributos en QGIS.
 
+NOTA: Tanto para la parte 1 como para la 2 es recomendable que filtren o recorten los datos del censo a la región, comuna o polígono de interés, para trabajar con mayor facilidad.
+
 ## Parte 3
 
 Consiste en una revisión de las entregas anteriores, sobre todo para los grupos que no han presentado o mostraron la pantalla de QGIS.
