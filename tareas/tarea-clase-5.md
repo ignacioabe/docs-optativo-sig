@@ -1,6 +1,6 @@
 # Tarea clase 5
 
-El encargo para la próxima sesión contiene tres partes.
+El encargo para la próxima sesión contiene dos partes.
 
 ## Parte 1
 
@@ -16,13 +16,9 @@ La idea es que sean capaces de responder algunas preguntas con respecto al área
 
 U otras preguntas que les parezcan relevantes...
 
+Es recomendable que filtren o recorten los datos del censo a la región, comuna o polígono de interés, para trabajar con mayor facilidad y que los rangos de las variables reflejen el territorio que están analizando y no todo el país.
+
 ## Parte 2
-
-Consiste en una revisión de los datos en QGIS y la generación de visualizaciones temáticas en base a las mismas preguntas elaboradas anteriormente. Para orientarse, pueden encontrar una grabación extra llamada `nombre archivo` que explica como hacer visualizaciones según atributos en QGIS.
-
-NOTA: Tanto para la parte 1 como para la 2 es recomendable que filtren o recorten los datos del censo a la región, comuna o polígono de interés, para trabajar con mayor facilidad.
-
-## Parte 3
 
 Consiste en una revisión de las entregas anteriores, sobre todo para los grupos que no han presentado o mostraron la pantalla de QGIS.
 

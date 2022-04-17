@@ -69,17 +69,19 @@ drive.mount('/content/drive')
 
 Contiene:
 
-- Lista de curso
-- Grabaciones de curso:
-  - clase 3
-- Geodatos
-  - puntos: permisos de edificación 2010 - 2018.csv - INE
-  - polilíneas: ciclovías visor territorial (2021) - MINVU
-  - polígonos: catastro nacional de condominios sociales - INE
-  - datos raster
-   - dem GMTED2010 zona centro sur (recorte) y sombreado de cerros (hillshade)
-   - descarga de prueba NDVI desde EOS Land Explorer
-   - descarga de prueba foto LANDSAT desde Earth Explorer (USGS)
+- archivos de trabajo
+  - jupyterlab
+  - QGIS
+- conjuntos de datos
+  - geodatos
+    - raster
+    - vectorial
+- entregas (por clase)
+- grabaciones clases
+- imágenes
+- presentaciones
+- referencia
+- lista de curso (planilla)
 
 ### Chile
 
