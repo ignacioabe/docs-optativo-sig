@@ -18,6 +18,8 @@ U otras preguntas que les parezcan relevantes...
 
 Es recomendable que filtren o recorten los datos del censo a la región, comuna o polígono de interés, para trabajar con mayor facilidad y que los rangos de las variables reflejen el territorio que están analizando y no todo el país.
 
+Si les interesa revisar estos mismos datos en QGIS, tienen que cargar el archivo `geodatabase`. Este archivo en realidad es una carpeta que termina en `.gdb` y contiene dos capas, una de manzanas urbanas y otra de polígonos rurales. Para cargarla el modo más fácil es arrastrar la carpeta completa a la ventana de QGIS.
+
 ## Parte 2
 
 Consiste en una revisión de las entregas anteriores, sobre todo para los grupos que no han presentado o mostraron la pantalla de QGIS.
