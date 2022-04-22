@@ -152,13 +152,7 @@ Uso herramientas SIG
   - interfaz
   - visualización de datos (permisos edificación)
 
-Tarea para la casa.
-<!-- 10 minutos -->
-
-- armar los grupos
-- elegir la ciudad
-- buscar datos públicos para chile o la ciudad elegida
-- revisarlos y crear una visualización interesante
+Explicación tarea (ver archivo `tareas/tarea-clase-2.md`)
 
 ### Clase 3: SIG: creación de datos
 
@@ -230,6 +224,8 @@ Explicación de nueva tarea
 
 Revisión grupos y ciudades asignadas
 <!-- 30 minutos? -->
+
+Explicación tarea (ver archivo `tareas/tarea-clase-3.md`)
 
 ### Clase 4: Cambios en el tiempo
 
@@ -361,8 +357,28 @@ Revisión entregas anteriores
 Entrega nueva tarea
 <!-- 15 minutos -->
 
-### Clase 6: Análisis de ciudades (revisión avances)
-<!-- pendiente -->
+### Clase 6: Visualización de datos y revisión pre exámen
 
-### Clase 7: Exámen
+#### Visualización de datos
+<!-- 1 hora -->
+
+- en qué consiste
+- distribución de valores numéricos: medidas de tendencia central, histograma
+- esquemas de color: secuencial, divergente, cualitativo
+- mapeo cantidad a color: clases y modos
+- otros elementos visuales: forma, tamaño, etc
+- aplicación práctica en QGIS
+- aplicación práctica en KEPLER.gl
+
+#### Corrección de trabajos
+<!-- 1,5 horas -->
+
+Revisar lo que le falta a cada uno y ponerle nota preliminar como medida de la calidad y nivel de completitud.
+
+#### Entrega tarea final
+<!-- 0,5 horas -->
+
+Ver `./tareas/tarea-clase-6-final.md`
+
+### Clase 7: Examen
 <!-- pendiente -->
